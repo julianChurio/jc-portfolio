@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/jc-portfolio/static/css/main.18ed79ca.css",
-    "main.js": "/jc-portfolio/static/js/main.c3df45d5.js",
+    "main.js": "/jc-portfolio/static/js/main.386ecfa7.js",
     "static/media/favshop.png": "/jc-portfolio/static/media/favshop.caf432416e9c75171317.png",
     "static/media/wanderlove-logo.png": "/jc-portfolio/static/media/wanderlove-logo.d1dfcb0afe4a0a9c6eb2.png",
     "index.html": "/jc-portfolio/index.html",
     "main.18ed79ca.css.map": "/jc-portfolio/static/css/main.18ed79ca.css.map",
-    "main.c3df45d5.js.map": "/jc-portfolio/static/js/main.c3df45d5.js.map"
+    "main.386ecfa7.js.map": "/jc-portfolio/static/js/main.386ecfa7.js.map"
   },
   "entrypoints": [
     "static/css/main.18ed79ca.css",
-    "static/js/main.c3df45d5.js"
+    "static/js/main.386ecfa7.js"
   ]
 }
