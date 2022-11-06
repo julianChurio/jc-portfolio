@@ -17,7 +17,7 @@ const Footer = () => {
           </a>
           <a
             className="bg-gradient-to-r from-sky-400 to-sky-500 text-white rounded-md text-lg self-center p-2"
-            href="https://drive.google.com/file/d/1OvrvNRUhKVq05TmgNy10-5fyj1MZeo-N/view?usp=sharing"
+            href="https://drive.google.com/file/d/1wieIVFb_8YNvp9puwMeUQfMSqurpXT_U/view?usp=sharing"
             target="_blank"
             rel="noreferrer"
           >
