@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/jc-portfolio/static/css/main.18ed79ca.css",
-    "main.js": "/jc-portfolio/static/js/main.8c66922f.js",
+    "main.js": "/jc-portfolio/static/js/main.bdb196da.js",
     "static/media/favshop.png": "/jc-portfolio/static/media/favshop.caf432416e9c75171317.png",
     "static/media/wanderlove-logo.png": "/jc-portfolio/static/media/wanderlove-logo.d1dfcb0afe4a0a9c6eb2.png",
     "static/media/pokedex.png": "/jc-portfolio/static/media/pokedex.1157752d37141f9e5b4c.png",
     "index.html": "/jc-portfolio/index.html",
     "main.18ed79ca.css.map": "/jc-portfolio/static/css/main.18ed79ca.css.map",
-    "main.8c66922f.js.map": "/jc-portfolio/static/js/main.8c66922f.js.map"
+    "main.bdb196da.js.map": "/jc-portfolio/static/js/main.bdb196da.js.map"
   },
   "entrypoints": [
     "static/css/main.18ed79ca.css",
-    "static/js/main.8c66922f.js"
+    "static/js/main.bdb196da.js"
   ]
 }
